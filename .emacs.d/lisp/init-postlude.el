@@ -1,0 +1,10 @@
+(package-install 'diminish)
+(diminish 'editorconfig-mode)
+(diminish 'undo-tree-mode)
+(diminish 'yas-minor-mode)
+(diminish 'smartparens-mode)
+(diminish 'helm-mode)
+(diminish 'projectile-mode)
+(diminish 'which-key-mode)
+
+(provide 'init-postlude)
